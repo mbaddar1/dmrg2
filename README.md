@@ -31,7 +31,12 @@ https://chatgpt.com/share/693ee639-1c70-8010-8a43-35bc8d51357d
 
 
 
-Similar 
+# Similar Repos
+One to focus on 
+
+https://github.com/tenpy/tenpy/blob/main/tenpy/algorithms/dmrg.py
+
+why ? capsulated lib with good code
 
 
 Here are **real GitHub repositories with Python DMRG implementations** (educational and research), all relevant if you want to *read/extend pythonic code for density-matrix renormalization group (DMRG)*:
